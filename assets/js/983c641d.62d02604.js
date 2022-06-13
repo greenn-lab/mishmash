@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmishmash=self.webpackChunkmishmash||[]).push([[7833],{4908:function(s){s.exports=JSON.parse('{"permalink":"/mishmash/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
